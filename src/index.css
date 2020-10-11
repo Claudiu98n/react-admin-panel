@@ -1,0 +1,10 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: 'Peddana-Regular';
+  src: local('Peddana-Regular'), url(./fonts/Peddana-Regular.ttf) format('truetype');
+}

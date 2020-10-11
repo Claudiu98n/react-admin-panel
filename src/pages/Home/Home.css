@@ -1,0 +1,17 @@
+.home {
+  min-height: 100vh;
+  padding: 1.5rem;
+  font-family: 'Peddana-Regular';
+  font-size: 1.5rem;
+  margin: 0 150px;
+}
+
+.home button {
+  font-size: 1.3rem;
+}
+
+#change-color, #change-text-color{
+    border: none;
+    width: 40%;
+    height: 40px;
+  }
