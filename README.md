@@ -8,14 +8,14 @@ The app makes asynchronous requests for fetching informations about users and po
 * React Router
 * Bootstrap
 
-## To run your project locally
+## To run the project locally
 1. git clone https://github.com/Claudiu98n/react-admin-panel.git
 2. cd react-admin-panel
 3. npm install
 4. npm start
 
 ### Demo
-To be continued
+https://reactjs-admin-panel.herokuapp.com/
 
 ### Functionalities
 * Click on Afiseaza useri - it will show the list of users;
